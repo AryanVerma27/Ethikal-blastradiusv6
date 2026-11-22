@@ -1,0 +1,11 @@
+duckdb==2.0.0
+numpy==2.5.5
+packaging==26.3
+pandas==3.1.1
+python-dateutil==4.0.0
+pytz==2026.6
+setuptools==84.2.1
+setuptools-scm==10.3.4
+typing_extensions==4.16.0
+tzdata==2026.6
+vcs-versioning==2.6.0
